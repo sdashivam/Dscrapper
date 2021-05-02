@@ -1,4 +1,4 @@
-Scrapy Project to scrape book details from flipkart.com, storing it in MongoDB Atlas and running on the Scrapyrt server.
+Scrapy Project for extracting books details from flipkart.com, storing it in MongoDB Atlas and running on the Scrapyrt server.
 
 Web scraping is the process of using bots to extract content and data from the website.  According to wikipedia web scraping is used for contact scraping, ans as a component of applications used for web indexing, web mining and data mining, online price change monitoring and price comparison, product review scraping(to watch competition), gathering product listings, weather data monitoring, website change detection, research, tracking online presence and reputation, web mashup and web data integration.
 
