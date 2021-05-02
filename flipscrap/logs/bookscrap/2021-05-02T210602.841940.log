@@ -1,0 +1,988 @@
+2021-05-02 21:06:08 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/search?q=books> (referer: None)
+2021-05-02 21:06:09 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Professor Academy',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmjhw280/regionalbooks/c/i/q/net-jrf-set-paper-1-set-of-4-books-second-edition-2021-by-original-imagff7awumu2h2w.jpeg?q=70',
+ 'name': 'NET JRF & SET Paper 1| Set Of 4 Books | Second Edition ...',
+ 'price': '499'}
+2021-05-02 21:06:09 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Pranay',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/khcb7gw0/book/8/2/0/buddha-original-imafxdnymennkhy6.jpeg?q=70',
+ 'name': 'BUDDHA: Spirituality For Leadership & Success - Spiritu...',
+ 'price': '149',
+ 'rating': '4.5'}
+2021-05-02 21:06:09 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Content Team at Target Publications',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kljrvrk0/regionalbooks/v/k/1/blossom-story-book-for-kids-in-english-3-to-4-year-old-31-short-original-imagyn57hr7z7vua.jpeg?q=70',
+ 'name': 'Blossom Story Book For Kids In English | 3 To 6 Year Ol...',
+ 'price': '63',
+ 'rating': '4.3'}
+2021-05-02 21:06:10 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Sadhguru',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kl175ow0/book/x/q/c/karma-original-imagy8yagcmhkheg.jpeg?q=70',
+ 'name': 'Karma',
+ 'price': '217',
+ 'rating': '4.9'}
+2021-05-02 21:06:10 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Bengali, Jain & Jaiswal',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/knj7wcw0/regionalbooks/w/c/8/50-practice-sets-a-n-m-r-g-n-m-bengali-version-original-imag26sky3usnbsz.jpeg?q=70',
+ 'name': '50 Practice Sets A.N.M (R) & G.N.M (Bengali Version)',
+ 'price': '204',
+ 'rating': '4.2'}
+2021-05-02 21:06:10 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Cards, Inikao',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klzhq4w0/book/z/c/s/picture-book-collections-for-eary-learning-set-of-12-original-imagyzgyfmuhywuk.jpeg?q=70',
+ 'name': 'Picture Book Collections for Eary Learning (Set of 12) ...',
+ 'price': '229',
+ 'rating': '4.3'}
+2021-05-02 21:06:10 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Hardcover, K.Park',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmgn0cw0/book/l/x/j/park-s-textbook-of-preventive-and-social-medicine-original-imagfckgyyccyrjf.jpeg?q=70',
+ 'name': "Park's Textbook Of Preventive And Social Medicine",
+ 'price': '1,459',
+ 'rating': '4.5'}
+2021-05-02 21:06:11 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Telugu, Vamshi krishna',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/km2clu80/regionalbooks/x/b/g/vashista-360-spoken-english-book-original-imagffh5v6uyb4ye.jpeg?q=70',
+ 'name': 'Vashista 360 Spoken English Book',
+ 'price': '299',
+ 'rating': '4.3'}
+2021-05-02 21:06:11 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'PEPAR BACK, Bengali, JAIN & JAISWAL',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kndi4y80/regionalbooks/o/2/i/a-n-m-r-g-n-m-50-practice-ste-nursing-original-imag22gxkudbeza9.jpeg?q=70',
+ 'name': 'A.n.m (R) & G.n.m 50 Practice Ste Nursing',
+ 'price': '204',
+ 'rating': '4.4'}
+2021-05-02 21:06:11 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Goh Cheng Leong',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kf0087k0/regionalbooks/y/t/7/certificate-physical-and-human-geography-2020-by-goh-cheng-leong-original-imafvk25avvgmd9h.jpeg?q=70',
+ 'name': 'Certificate Physical And Human Geography 2020 By Goh Ch...',
+ 'price': '245',
+ 'rating': '4.2'}
+2021-05-02 21:06:11 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Board book, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/keuagsw0/regionalbooks/z/z/q/my-first-picture-library-box-of-10-board-books-pre-school-books-original-imafvfmquvkxmyza.jpeg?q=70',
+ 'name': 'My First Picture Library Box Of 10 Board Books (Pre-Sch...',
+ 'price': '349',
+ 'rating': '4.6'}
+2021-05-02 21:06:12 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Hindi, Paperback, Dixit Sudhir',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kn4xhu80/book/v/a/w/time-management-original-imagfvk27fjdrakc.jpeg?q=70',
+ 'name': 'Time Management',
+ 'price': '73',
+ 'rating': '4.4'}
+2021-05-02 21:06:12 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, DALE CARNEGIE',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kg5fzww0/regionalbooks/f/g/v/how-to-win-friends-and-influence-people-original-imafwgc36znxuqmy.jpeg?q=70',
+ 'name': 'How To Win Friends And Influence People',
+ 'price': '122',
+ 'rating': '4.5'}
+2021-05-02 21:06:12 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kd0k7m80/regionalbooks/t/t/y/221-human-body-parts-encyclopedia-by-sawan-original-imaftzrm4ztrtrgq.jpeg?q=70',
+ 'name': '221 Human Body Parts Encyclopedia | By Sawan',
+ 'price': '139',
+ 'rating': '4.5'}
+2021-05-02 21:06:12 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Content Team at Target Publications',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klicfww0/regionalbooks/t/b/f/nursery-writing-books-for-kids-combo-of-4-books-viz-nurture-original-imagymcyzmcz59ng.jpeg?q=70',
+ 'name': 'Nursery Writing Books For Kids (Combo Of 4 Books Viz. N...',
+ 'price': '256',
+ 'rating': '4.4'}
+2021-05-02 21:06:12 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, InIkao',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/km0x5zk0/book/r/m/e/colouring-books-collections-for-early-learning-by-inikao-original-imagfyf8jq7eyzpd.jpeg?q=70',
+ 'name': 'Colouring Books Collections for Early Learning by InIka...',
+ 'price': '179',
+ 'rating': '4.4'}
+2021-05-02 21:06:13 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Murty Sudha',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k20r8nk0/book/1/6/6/the-magic-of-the-lost-temple-original-imafhgthyqv9bhh9.jpeg?q=70',
+ 'name': 'The Magic Of The Lost Temple',
+ 'price': '145',
+ 'rating': '4.6'}
+2021-05-02 21:06:13 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Arora Ashish',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jua4djk0/book/6/3/3/physics-galaxy-2020-21-advanced-illustration-in-physics-original-imaffgdt5bffbk8g.jpeg?q=70',
+ 'name': 'Physics Galaxy: Advanced Illustration in Physics 1 Edit...',
+ 'price': '387',
+ 'rating': '4.5'}
+2021-05-02 21:06:13 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Tamil, Hardcover, Garcia Hector',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kgb5rbk0/book/3/5/4/ikigai-the-japanese-secret-to-a-long-and-happy-life-original-imafwkzfxnqzek3x.jpeg?q=70',
+ 'name': 'Ikigai',
+ 'price': '212',
+ 'rating': '4.5'}
+2021-05-02 21:06:13 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kctf0cw0/regionalbooks/p/z/z/151-bedtime-stories-by-sawan-original-imaftuthgrhmb8ty.jpeg?q=70',
+ 'name': '151 Bedtime Stories | By Sawan',
+ 'price': '139',
+ 'rating': '3.9'}
+2021-05-02 21:06:14 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Heinemeier Hansson David',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kirr24w0-0/regionalbooks/6/d/p/rework-change-the-way-you-work-forever-book-original-imafyhfyjs6p6uh7.jpeg?q=70',
+ 'name': 'Rework Change The Way You Work Forever Book',
+ 'price': '158',
+ 'rating': '4.4'}
+2021-05-02 21:06:14 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, ts grewal',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/knknc7k0/regionalbooks/h/p/4/t-s-grewal-s-analysis-of-financial-statements-and-double-entry-original-imag27w9hbszyhk6.jpeg?q=70',
+ 'name': "T.S. Grewal's Analysis Of Financial Statements And Doub...",
+ 'price': '1,260',
+ 'rating': '5'}
+2021-05-02 21:06:14 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/km0x5zk0/book/y/6/7/story-books-set-of-10-in-english-with-101-moral-stories-from-original-imagfyfe9g7fgzj2.jpeg?q=70',
+ 'name': 'Story Books Set of 10 in English with 101 Moral Stories...',
+ 'price': '225',
+ 'rating': '4.3'}
+2021-05-02 21:06:14 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kctf0cw0/regionalbooks/a/c/q/baby-record-book-it-s-a-girl-by-sawan-original-imaftup2znqygwrb.jpeg?q=70',
+ 'name': "Baby Record Book, It's A Girl | By Sawan",
+ 'price': '189',
+ 'rating': '4.5'}
+2021-05-02 21:06:14 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjn6qvk0-0/book/e/r/x/believe-in-yourself-original-imafz5dx9ga8ghne.jpeg?q=70',
+ 'name': 'Believe in Yourself - Believe in Yourself',
+ 'price': '113',
+ 'rating': '4.3'}
+2021-05-02 21:06:15 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jz30nm80/book/3/8/5/believe-in-yourself-original-imafj6g6ptjn2gzs.jpeg?q=70',
+ 'name': 'Believe in Yourself',
+ 'price': '147',
+ 'rating': '4.3'}
+2021-05-02 21:06:15 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Hindi, Ankit, Rahul',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/knxiavk0/regionalbooks/t/1/s/ssc-gd-maths-general-hindi-reasoning-general-studies-in-hindi-original-imag2gecshf8fbgj.jpeg?q=70',
+ 'name': 'SSC GD (Maths , General Hindi , Reasoning , General Stu...',
+ 'price': '390'}
+2021-05-02 21:06:15 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Changle Stuti',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjrh2fk0/book/6/w/u/you-only-live-once-original-imafz9geb8hptuth.jpeg?q=70',
+ 'name': 'You Only Live Once',
+ 'price': '155',
+ 'rating': '4.5'}
+2021-05-02 21:06:15 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Hindi, Paperback, Pooja Rana',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jafo7m80/book/3/0/5/englishwale-com-english-speaking-course-book-original-imafyygwgyngjxdr.jpeg?q=70',
+ 'name': 'Englishwale.com English Speaking Course Book',
+ 'price': '225',
+ 'rating': '4.4'}
+2021-05-02 21:06:16 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English and hindi, Hardcover, Sumit publication',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jpr86fk0/book/0/4/8/all-in-one-for-pre-nursery-to-primary-kids-my-favourite-big-original-imafbwhdfxf3zewj.jpeg?q=70',
+ 'name': 'All in one for Pre-nursery to Primary Kids (My Favourit...',
+ 'price': '239',
+ 'rating': '4.5'}
+2021-05-02 21:06:16 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jpu324w0/book/0/9/0/believe-in-yourself-original-imafbzz2h7yfg5zz.jpeg?q=70',
+ 'name': 'Believe in Yourself',
+ 'price': '73',
+ 'rating': '4.3'}
+2021-05-02 21:06:16 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Durjoy Datta,',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kiow6fk0-0/book/q/a/q/a-touch-of-eternity-original-imafyfjxxyxypnq9.jpeg?q=70',
+ 'name': 'A Touch of Eternity',
+ 'price': '126',
+ 'rating': '4.6'}
+2021-05-02 21:06:16 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, R.S Khurmi',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jdkjzww0/regionalbooks/s/f/v/civil-engineering-conventional-and-objective-type-original-imaf2fmws42shrsc.jpeg?q=70',
+ 'name': 'Civil Engineering: Conventional And Objective Type',
+ 'price': '284',
+ 'rating': '4.3'}
+2021-05-02 21:06:16 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jpwxxu80/regionalbooks/7/8/3/365-colouring-book-original-imafbzrfaztabepx.jpeg?q=70',
+ 'name': '365 Colouring Book',
+ 'price': '249',
+ 'rating': '4.5'}
+2021-05-02 21:06:17 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Anubhav Agrawal',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kfyasnk0/book/4/7/3/why-not-me-a-feeling-of-millions-original-imafwafheceuzgq4.jpeg?q=70',
+ 'name': 'Why Not Me? A Feeling of Millions (English)',
+ 'price': '125',
+ 'rating': '4.7'}
+2021-05-02 21:06:17 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Hindi, Paperback, Allan Pease',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/book/0/6/6/questions-are-the-answers-original-imadhtdwtj6mzm3b.jpeg?q=70',
+ 'name': 'Sawal hi jawab hai',
+ 'price': '78',
+ 'rating': '4.4'}
+2021-05-02 21:06:17 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Paperback, Marathi, Sharad Tandale',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k3dc7m80/regionalbooks/n/b/c/ravan-raja-rakshasancha-marathi-original-imafmgtfawhhnjyb.jpeg?q=70',
+ 'name': 'RAVAN : RAJA RAKSHASANCHA ( Marathi )',
+ 'price': '338',
+ 'rating': '4.6'}
+2021-05-02 21:06:17 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, Paperback, Khanna Vikrant',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k1nw9zk0/book/9/4/3/the-girl-who-knew-too-much-original-imafh6hhzapaa9tn.jpeg?q=70',
+ 'name': 'The Girl Who Knew Too Much - What if the Loved One You ...',
+ 'price': '132',
+ 'rating': '4.4'}
+2021-05-02 21:06:18 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'Telugu, Paperback, Kiyosaki Robert T.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/book/1/9/1/rich-dad-poor-dad-original-imaduwhpvbgegna9.jpeg?q=70',
+ 'name': 'Rich Dad Poor Dad',
+ 'price': '189',
+ 'rating': '4.4'}
+2021-05-02 21:06:18 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books>
+{'author_format': 'English, India, InIkao',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/km0x5zk0/book/v/x/q/cartoon-colouring-books-collections-set-of-6-original-imagfyfcbxsjymts.jpeg?q=70',
+ 'name': 'Cartoon Colouring Books Collections Set of 6 - Crayon C...',
+ 'price': '140',
+ 'rating': '4.4'}
+2021-05-02 21:06:18 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/search?q=books&page=2> (referer: https://www.flipkart.com/search?q=books)
+2021-05-02 21:06:18 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Agrawal Examcart',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmxsakw0/book/p/r/s/ssc-constable-gd-latest-guidebook-for-exam-2021-original-imagfqdstzcuynrh.jpeg?q=70',
+ 'name': 'SSC Constable GD Latest Guidebook For Exam 2021',
+ 'price': '350',
+ 'rating': '4.2'}
+2021-05-02 21:06:19 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Khurmi R. S.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kialrww0-0/book/u/9/1/mechanical-engineering-original-imafy42hdfkpd5mv.jpeg?q=70',
+ 'name': 'Mechanical Engineering',
+ 'price': '460',
+ 'rating': '4.3'}
+2021-05-02 21:06:19 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Hardcover, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kkfrjww0/book/1/z/j/my-first-library-original-imafzs675jyru32q.jpeg?q=70',
+ 'name': 'My First Learning Little Library, Set Of 12 Board Books...',
+ 'price': '390',
+ 'rating': '4.4'}
+2021-05-02 21:06:19 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Yadav Nirmal',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k0r15e80/book/4/5/4/feel-deal-heal-original-imafkhczmhcv3mum.jpeg?q=70',
+ 'name': 'Feel Deal Heal',
+ 'price': '150',
+ 'rating': '4.6'}
+2021-05-02 21:06:19 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Hindi, Generic',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kabe9ow0/regionalbooks/n/g/3/business-school-questions-are-the-answers-copycat-marketing-101-original-imafrx9zc2gz3qzh.jpeg?q=70',
+ 'name': 'Business School, Questions Are The Answers, Copycat Mar...',
+ 'price': '300',
+ 'rating': '4.2'}
+2021-05-02 21:06:20 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Joseph Murphy',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klphn680/book/p/y/b/the-power-of-your-subconscious-mind-original-imagysfhje8hcnzw.jpeg?q=70',
+ 'name': 'The Power Of Your Subconscious Mind',
+ 'price': '152',
+ 'rating': '4.5'}
+2021-05-02 21:06:20 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Hindi, Paperback, Dr Chowdhury Biswaroop Roy',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kfzq8i80/book/8/0/2/covid-19-shadyantr-se-samaadhaan-tak-original-imafwc6ruphqueh3.jpeg?q=70',
+ 'name': 'Covid-19 (कोविड - 19 षड्यंत्र से समाधान तक)',
+ 'price': '195',
+ 'rating': '4.6'}
+2021-05-02 21:06:20 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/km0x5zk0/book/j/o/g/panchatantra-original-imagfycr6dkb8zzx.jpeg?q=70',
+ 'name': '101 Panchatantra Stories',
+ 'price': '116',
+ 'rating': '4.4'}
+2021-05-02 21:06:20 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Telugu, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jbtomfk0/book/7/2/1/believe-in-yourself-original-imaffyytxs7w9xjm.jpeg?q=70',
+ 'name': 'Believe in Yourself',
+ 'price': '125',
+ 'rating': '3.9'}
+2021-05-02 21:06:21 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kctf0cw0/regionalbooks/r/a/4/inspiring-stories-of-grandpa-interesting-stories-of-grandpa-original-imaftv4fghxjgpz3.jpeg?q=70',
+ 'name': 'Inspiring Stories Of Grandpa, Interesting Stories Of Gr...',
+ 'price': '155'}
+2021-05-02 21:06:21 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Marathi, Paperback, Rhonda Byrne',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/book/7/6/4/the-secret-original-imad78yzvcgduzzf.jpeg?q=70',
+ 'name': 'Secret',
+ 'price': '245',
+ 'rating': '4.4'}
+2021-05-02 21:06:21 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, MTG Expert',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kdbzqfk0/regionalbooks/4/s/x/objective-ncert-at-your-fingertips-physics-chemistry-biology-original-imafu9hfu7xx6c4z.jpeg?q=70',
+ 'name': 'Objective NCERT At Your FINGERTIPS\xa0\xa0PHYSICS, CHEMISTRY,...',
+ 'price': '1,650',
+ 'rating': '4.6'}
+2021-05-02 21:06:21 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Pattrea Madhumita',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kbl4cy80/book/0/6/8/cbse-all-in-one-social-science-class-9-for-2021-exam-original-imafswtfrfd7tzg4.jpeg?q=70',
+ 'name': 'Cbse All in One Social Science Class 9 for 2021 Exam',
+ 'price': '315',
+ 'rating': '4.6'}
+2021-05-02 21:06:21 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Pin Binding, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kc9eufk0/regionalbooks/j/a/5/sawan-present-set-of-20-books-colouring-books-for-kids-copy-to-original-imaftfjvu7adg4bt.jpeg?q=70',
+ 'name': 'Sawan Present Set Of 20 Books | Colouring Books For Kid...',
+ 'price': '285',
+ 'rating': '4.4'}
+2021-05-02 21:06:22 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Manjit Kaur, Lakhmir Singh',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kapoo7k0/regionalbooks/z/q/r/science-for-class-10-physics-chemistry-biology-cbse-for-2018-original-imafs86grhbzeerc.jpeg?q=70',
+ 'name': 'Science For Class 10 : Physics + Chemistry + Biology CB...',
+ 'price': '1,240',
+ 'rating': '4.5'}
+2021-05-02 21:06:22 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Disha Experts',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kgsb1jk0/book/0/6/8/5-mock-tests-for-nta-neet-2021-3rd-edition-original-imafwyb97gsjumcq.jpeg?q=70',
+ 'name': '5 Mock Tests for NTA NEET 2021 - 3rd Edition',
+ 'price': '71',
+ 'rating': '4.5'}
+2021-05-02 21:06:22 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Garg Krishna',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jwmfcsw0/book/4/1/9/bd-chaurasia-s-handbook-of-general-anatomy-6-e-paperback-2019-original-imafh7bkhdzcmuwz.jpeg?q=70',
+ 'name': "BD Chaurasia's Handbook of General Anatomy",
+ 'price': '337',
+ 'rating': '4.6'}
+2021-05-02 21:06:22 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Murty Sudha',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jvwpfgw0/book/6/2/3/grandma-s-bag-of-stories-original-imafgzw6mwzjygzf.jpeg?q=70',
+ 'name': "Grandma's Bag Of Stories",
+ 'price': '197',
+ 'rating': '4.5'}
+2021-05-02 21:06:23 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Unknown, Robert T Kyoski',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kfzq8i80/regionalbooks/x/9/f/combo-of-six-books-business-school-questions-are-the-answers-original-imafwbmg7v29twga.jpeg?q=70',
+ 'name': 'English The Parable Of The Pipeline Set Of 6 Books',
+ 'price': '360',
+ 'rating': '4.5'}
+2021-05-02 21:06:23 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kcuug7k0/regionalbooks/c/t/g/my-first-picture-books-my-first-1000-words-paper-back-original-imaftvyytwtxyunz.jpeg?q=70',
+ 'name': 'My First Picture Books, My First 1000 Words (Paper Back...',
+ 'price': '159',
+ 'rating': '4.5'}
+2021-05-02 21:06:23 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmmcrrk0/book/f/c/4/writing-practice-a-set-of-4-books-original-imagfhjdfrc9mduv.jpeg?q=70',
+ 'name': 'Writing Practice a Set of 4 Books - By Miss & Chief',
+ 'price': '159',
+ 'rating': '4.4'}
+2021-05-02 21:06:23 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kdhphu80/book/6/0/1/adda-ace-quant-original-imafudzwchqa5tbx.jpeg?q=70',
+ 'name': 'Ace Quantitative Aptitude For Banking and Insurance (En...',
+ 'price': '290',
+ 'rating': '4.5'}
+2021-05-02 21:06:24 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Vex King',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjx6tu80/book/6/9/2/healing-is-the-new-high-original-imafze3jphhwbbhb.jpeg?q=70',
+ 'name': 'Healing is the New High',
+ 'price': '374',
+ 'rating': '4.5'}
+2021-05-02 21:06:24 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Hindi, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjabs7k0-0/regionalbooks/b/6/l/ramayan-in-hindi-original-imafyw9e3zvybdah.jpeg?q=70',
+ 'name': 'Ramayan In Hindi',
+ 'price': '99',
+ 'rating': '4.8'}
+2021-05-02 21:06:24 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, JAY SHETTY',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kfpq5jk0/regionalbooks/e/2/9/think-like-a-monk-english-original-imafw48fkg3fnyes.jpeg?q=70',
+ 'name': 'Think like a Monk',
+ 'price': '249',
+ 'rating': '4.4'}
+2021-05-02 21:06:24 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Hindi, Yajvendra Yadav, Ram Singh Yadav',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jixgfww0/regionalbooks/v/j/x/indian-airforce-c-civilian-group-for-mts-driver-etc-all-civilian-original-imaf6mfg85sfh4tz.jpeg?q=70',
+ 'name': 'Indian Airforce C ( Civilian ) Group For MTS, Driver, E...',
+ 'price': '220',
+ 'rating': '4'}
+2021-05-02 21:06:24 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Waite A.E.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k0r15e80/book/5/7/9/the-original-rider-waite-tarot-deck-original-imafkhc6newww5rb.jpeg?q=70',
+ 'name': 'The Original Rider Waite Tarot Deck',
+ 'price': '1,190',
+ 'rating': '4.5'}
+2021-05-02 21:06:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Hill Napoleon',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klo27bk0/book/5/i/a/think-grow-rich-original-imagyqtmdsthhqxt.jpeg?q=70',
+ 'name': 'Think & Grow Rich',
+ 'price': '99',
+ 'rating': '4.5'}
+2021-05-02 21:06:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Sastry S Apurba',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kfmv9u80/book/0/1/5/essentials-of-medical-microbiology-original-imafwfsj2v3dzf73.jpeg?q=70',
+ 'name': 'Essentials of Medical Microbiology',
+ 'price': '1,289',
+ 'rating': '4.4'}
+2021-05-02 21:06:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Neeru Madam',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kn97te80/regionalbooks/o/9/c/ssc-english-tcs-6000-mcq-topic-wise-book-i-neeru-madam-original-imagfz9gah7xuggn.jpeg?q=70',
+ 'name': 'SSC English TCS 6000 MCQ Topic Wise Book I Neeru Madam',
+ 'price': '419',
+ 'rating': '4.4'}
+2021-05-02 21:06:25 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Malayalam, Paperback, Byrne Rhonda',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k4d27ww0/book/5/9/2/the-secret-original-imafn7fwqnankqyn.jpeg?q=70',
+ 'name': 'The Secret',
+ 'price': '355',
+ 'rating': '4.5'}
+2021-05-02 21:06:26 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Hardcover, Marathi, His Divine Grace A. C. Bhaktivedanta '
+                  'Swami Prabhupada',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/regionalbooks/j/j/g/srimad-bhagavad-gita-as-it-is-marathi-new-edition-original-imaed8qfusepmmcg.jpeg?q=70',
+ 'name': 'Srimad Bhagavad Gita As It Is : Marathi\n(New Edition)',
+ 'price': '222',
+ 'rating': '4.7'}
+2021-05-02 21:06:26 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, V. K. Sharma',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jc3ope80/regionalbooks/b/z/6/saraswati-health-and-physical-education-class-12-original-imaff9w5hgscfssn.jpeg?q=70',
+ 'name': 'Saraswati Health And Physical Education Class - 12',
+ 'price': '275',
+ 'rating': '4.4'}
+2021-05-02 21:06:26 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kctf0cw0/regionalbooks/h/t/k/365-moral-stories-paperback-original-imaftusfdwvahc8y.jpeg?q=70',
+ 'name': '365 Moral Stories (Paperback)',
+ 'price': '274',
+ 'rating': '4.5'}
+2021-05-02 21:06:26 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Paperback, Dr. Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kh3qkcw0/book/8/4/4/the-power-of-your-subconscious-mind-original-imafx6xhjbvhe66p.jpeg?q=70',
+ 'name': 'The Power of your Subconscious Mind',
+ 'price': '162',
+ 'rating': '4.2'}
+2021-05-02 21:06:26 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Tamil, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k7qinbk0/book/1/9/8/the-power-of-your-subconscious-mind-original-imafpwv5h6asegmr.jpeg?q=70',
+ 'name': 'The Power of Your Subconscious Mind',
+ 'price': '99',
+ 'rating': '4.4'}
+2021-05-02 21:06:27 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'German, Goyal Publishers & Distributors Pvt Ltd, Stefanie '
+                  'Dengler (Foreword)',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jvfk58w0/book/0/3/3/netzwerk-deutsch-als-fremdsprache-a1-textbook-workbook-glossar-original-imafg36fy7dfxsug.jpeg?q=70',
+ 'name': 'Netzwerk Deutsch als Fremdsprache A1 (Textbook + Workbo...',
+ 'price': '995',
+ 'rating': '4.5'}
+2021-05-02 21:06:27 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'Hardcover, Kannada, His Divine Grace A. C. Bhaktivedanta '
+                  'Swami Prabhupada',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/regionalbooks/d/m/x/srimad-bhagavad-gita-as-it-is-kannada-new-edition-original-imae5487cuazfby8.jpeg?q=70',
+ 'name': 'Srimad Bhagavad Gita As It Is : Kannada \n(New Edition)',
+ 'price': '290',
+ 'rating': '4.6'}
+2021-05-02 21:06:27 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, Sharma Arun',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjbr8280-0/book/p/u/y/how-to-prepare-for-quantitative-aptitude-for-the-cat-original-imafyxeh8t7hbz7h.jpeg?q=70',
+ 'name': 'How to Prepare for Quantitative Aptitude for the CAT',
+ 'price': '750',
+ 'rating': '4.5'}
+2021-05-02 21:06:27 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=2>
+{'author_format': 'English, Paperback, MANOJ PB. ED. BOARD',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/juip0nk0/book/6/5/4/151-indian-mythological-stories-original-imaffhdyfsgrrtja.jpeg?q=70',
+ 'name': '151 INDIAN MYTHOLOGICAL STORIES',
+ 'price': '139',
+ 'rating': '4.5'}
+2021-05-02 21:06:28 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/search?q=books&page=3> (referer: https://www.flipkart.com/search?q=books&page=2)
+2021-05-02 21:06:28 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Hindi, NA',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jbl3zbk0/regionalbooks/v/f/d/rogi-swayam-chikitsak-focuses-on-ayurveda-daily-habits-change-original-imafywhuu6rz4vnf.jpeg?q=70',
+ 'name': 'Rogi Swayam Chikitsak, Focuses On Ayurveda, Daily Habit...',
+ 'price': '149',
+ 'rating': '4.4'}
+2021-05-02 21:06:29 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Marathi, Paperback, Kiyosaki Robert T.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kcjexe80/book/3/7/8/rich-dad-poor-dad-original-imaftn7pnn7ykgyr.jpeg?q=70',
+ 'name': 'Rich Dad Poor Dad',
+ 'price': '172',
+ 'rating': '4.5'}
+2021-05-02 21:06:29 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Dr. Ashok Kumar Singh',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kd7pevk0/regionalbooks/h/a/q/a-mirror-of-common-errors-anglo-hindi-original-imafu689sruhghu8.jpeg?q=70',
+ 'name': 'A Mirror Of Common Errors (Anglo-Hindi)',
+ 'price': '441',
+ 'rating': '4.3'}
+2021-05-02 21:06:29 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Baljit Dhaka',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klicfww0/regionalbooks/c/k/2/ssc-maths-5000-tcs-mcq-chapter-wise-bilingual-original-imagymyrbshfbhga.jpeg?q=70',
+ 'name': 'SSC Maths 5000 TCS MCQ Chapter Wise Bilingual',
+ 'price': '420',
+ 'rating': '4.1'}
+2021-05-02 21:06:29 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Datta Durjoy',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jzd0qkw0/book/3/3/4/wish-i-could-tell-you-original-imafjby5tjwm3gn2.jpeg?q=70',
+ 'name': 'Wish I Could Tell You',
+ 'price': '123',
+ 'rating': '4.5'}
+2021-05-02 21:06:29 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Dahiya Poonam Dalal',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjabs7k0-0/book/b/6/j/ancient-and-medieval-india-original-imafywyw6pqn6uxd.jpeg?q=70',
+ 'name': 'Ancient and Medieval India',
+ 'price': '388',
+ 'rating': '4.6'}
+2021-05-02 21:06:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Harper Lee',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kkr72q80/regionalbooks/s/i/o/to-kill-a-mockingbird-original-imagyf9vuhjv4nwg.jpeg?q=70',
+ 'name': 'To Kill A Mockingbird',
+ 'price': '150',
+ 'rating': '4.3'}
+2021-05-02 21:06:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Content Team at Target Publications',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k79dd3k0/regionalbooks/h/f/g/blossom-english-alphabet-writing-book-for-kids-3-to-5-year-old-original-imafpj92duguj4f7.jpeg?q=70',
+ 'name': 'Blossom English Alphabet Writing Book For Kids | 3 To 5...',
+ 'price': '76',
+ 'rating': '4.3'}
+2021-05-02 21:06:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Book, Hill Napoleon',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klscivk0/book/e/9/z/think-grow-rich-original-imagyturmbhutyhz.jpeg?q=70',
+ 'name': 'Think & Grow Rich',
+ 'price': '121',
+ 'rating': '4.5'}
+2021-05-02 21:06:30 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Manoj Publications',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kd3f3bk0/regionalbooks/f/t/r/set-of-2-books-story-books-selected-fairy-tales-and-grand-mother-original-imafu2vrxyvkunny.jpeg?q=70',
+ 'name': 'Set Of 2 Books | Story Books : Selected Fairy Tales And...',
+ 'price': '119'}
+2021-05-02 21:06:31 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'HARD BOND, EDITORIAL TEAM',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jxrv4i80/regionalbooks/3/n/z/my-first-board-book-of-all-in-one-original-imafg5z9v8aur8gn.jpeg?q=70',
+ 'name': 'My First Board Book Of All In One',
+ 'price': '219',
+ 'rating': '4.5'}
+2021-05-02 21:06:31 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Content Team at Target Publications',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kbxzbm80/regionalbooks/z/b/t/nurture-english-alphabet-tracing-and-writing-practice-book-for-original-imaft6j8zcgwhfbk.jpeg?q=70',
+ 'name': 'Nurture English Alphabet Tracing And Writing Practice B...',
+ 'price': '72',
+ 'rating': '4.2'}
+2021-05-02 21:06:31 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, B B TAYAL',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kl9rssw0/regionalbooks/p/a/z/apc-icse-modern-indian-history-contemporary-world-and-civics-original-imagyfpgsam46wjd.jpeg?q=70',
+ 'name': 'Apc Icse Modern Indian History Contemporary World And C...',
+ 'price': '350',
+ 'rating': '4.6'}
+2021-05-02 21:06:31 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Perfect Binding, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kc6jyq80/regionalbooks/d/t/q/sawan-present-set-of-2-story-books-151-series-animal-stories-original-imaftch3btujhhpa.jpeg?q=70',
+ 'name': 'Sawan Present Set Of 2 Story Books | 151 Series | Anima...',
+ 'price': '245',
+ 'rating': '4.3'}
+2021-05-02 21:06:31 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Hindi, Paperback, Eker T. Harv',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jpu324w0/book/1/1/5/secrets-of-the-millionare-mind-original-imafbznzvzhnhhkt.jpeg?q=70',
+ 'name': 'Secrets of the Millionare Mind',
+ 'price': '140',
+ 'rating': '4.5'}
+2021-05-02 21:06:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Singh Bhagat',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k1s6ljk0/book/8/1/2/why-i-am-an-atheist-and-other-works-original-imafha2ddxtfs4sq.jpeg?q=70',
+ 'name': 'Why I am an Atheist and Other Works',
+ 'price': '107',
+ 'rating': '4.6'}
+2021-05-02 21:06:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Hindi, Mahesh Kumar Burnwal',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jtg44nk0/regionalbooks/v/j/h/madhya-pradesh-ek-samagra-adhyyan-original-imafes2247bx3gvz.jpeg?q=70',
+ 'name': 'Madhya Pradesh Ek Samagra Adhyyan',
+ 'price': '232',
+ 'rating': '4.4'}
+2021-05-02 21:06:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Kannada, Zhurilal Naik B',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/ko0d6kw0/regionalbooks/r/n/g/garuda-drushti-guriya-kadege-psi-pc-ksrp-all-other-competitive-original-imag2k48tgynwfuf.jpeg?q=70',
+ 'name': 'GARUDA -Drushti Guriya Kadege-PSI/PC/KSRP /All Other Co...',
+ 'price': '470',
+ 'rating': '4.5'}
+2021-05-02 21:06:32 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Orient BlackSwan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kctf0cw0/book/1/0/3/orient-black-swan-atlas-for-competitive-exam-original-imaftuzgek2f4cxk.jpeg?q=70',
+ 'name': 'The Orient BlackSwan Atlas for Competitive Exams',
+ 'price': '230',
+ 'rating': '4.5'}
+2021-05-02 21:06:33 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Hindi, English, board book, InIkao',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmjhw280/book/f/6/r/inikao-kindergarten-books-all-in-one-english-hindi-original-imagffcgchqzkb32.jpeg?q=70',
+ 'name': 'InIkao Kindergarten Books :All in One English - Hindi -...',
+ 'price': '118',
+ 'rating': '4.4'}
+2021-05-02 21:06:33 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Genric author, Benjamin Graham, Fisher Philip A.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klphn680/regionalbooks/v/w/h/the-intelligent-english-paperback-the-warren-buffett-way-original-imagyrgvrwcfugdp.jpeg?q=70',
+ 'name': 'The Intelligent (English) Paperback + The Warren Buffet...',
+ 'price': '549',
+ 'rating': '4.3'}
+2021-05-02 21:06:33 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, lucent manohar pandey',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kkr72q80/regionalbooks/h/a/n/lucent-s-general-knowledge-with-general-knowledge-2022-original-imagyf6hxd3fydhm.jpeg?q=70',
+ 'name': "Lucent's General Knowledge With General Knowledge 2022",
+ 'price': '208',
+ 'rating': '4.3'}
+2021-05-02 21:06:33 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Avasthi Narendra',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kbb49zk0/book/1/0/7/problems-in-physical-chemistry-for-jee-original-imafszw3a5uzhppy.jpeg?q=70',
+ 'name': 'Problems in Physical Chemistry for Jee Main & Advanced',
+ 'price': '459',
+ 'rating': '4.5'}
+2021-05-02 21:06:34 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'LUXMI SCAN, Bookmate',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jyxaw7k0/regionalbooks/v/g/3/my-first-choice-for-nursery-rhymes-original-imafgnfwmnrwfscz.jpeg?q=70',
+ 'name': 'My First Choice For Nursery Rhymes',
+ 'price': '139',
+ 'rating': '4.3'}
+2021-05-02 21:06:34 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Rajiv Ahir',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmccosw0/regionalbooks/a/9/e/history-book-modern-india-latest-edition-2018-india-paperback-original-imagf9qhs8ksbwxe.jpeg?q=70',
+ 'name': 'History Book, Modern India Latest Edition 2018, India, ...',
+ 'price': '290',
+ 'rating': '4.3'}
+2021-05-02 21:06:34 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, by Dr Kiranpreet Kaur Makkar (Author), '
+                  'Indroop Singh (Contributor),, 2 More',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k391w280/book/7/9/7/ielts-academic-readings-for-exam-practice-original-imafmev46bjga798.jpeg?q=70',
+ 'name': 'IELTS Academic Readings For Exam Practice',
+ 'price': '220',
+ 'rating': '4.4'}
+2021-05-02 21:06:34 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, India, InIkao',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/km0x5zk0/book/v/x/q/cartoon-colouring-books-collections-set-of-6-original-imagfyfcbxsjymts.jpeg?q=70',
+ 'name': 'Cartoon Colouring Books Collections Set of 6 - Crayon C...',
+ 'price': '140',
+ 'rating': '4.4'}
+2021-05-02 21:06:34 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Gupta Nikhil K.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/klqx30w0/book/e/e/f/blackbook-of-english-vocabulary-february-2021-by-nikhil-gupta-original-imagysxkgzgrz9g7.jpeg?q=70',
+ 'name': 'Blackbook of English Vocabulary',
+ 'price': '274',
+ 'rating': '4.6'}
+2021-05-02 21:06:35 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kgzg8sw0/book/6/2/0/33-years-neet-aipmt-chapterwise-solutions-biology-2020-original-imafx3g6bechcrqy.jpeg?q=70',
+ 'name': '33 Years Neet-Aipmt Chapterwise Solutions - Biology 202...',
+ 'price': '233',
+ 'rating': '4.6'}
+2021-05-02 21:06:35 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Baljit Dhaka',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmccosw0/regionalbooks/x/c/j/ssc-general-studies-4000-tcs-mcq-chapter-wise-bilingual-original-imagf9d29akn5g2q.jpeg?q=70',
+ 'name': 'SSC General Studies 4000 TCS MCQ Chapter Wise Bilingual',
+ 'price': '425',
+ 'rating': '4.4'}
+2021-05-02 21:06:35 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, NCERT',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k6gsk280/regionalbooks/g/r/v/ncert-geography-class-12-vol1-2-english-medium-original-imafzxcqmuwvzzeg.jpeg?q=70',
+ 'name': 'NCERT GEOGRAPHY CLASS 12 VOL1+2 English Medium',
+ 'price': '140',
+ 'rating': '4.4'}
+2021-05-02 21:06:35 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Sunda Nem Raj',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/js3j5ow0/book/9/1/0/a-competitive-book-of-agriculture-2019-original-imafdzsuuj7t69en.jpeg?q=70',
+ 'name': 'Competitive Book of Agriculture',
+ 'price': '319',
+ 'rating': '4.4'}
+2021-05-02 21:06:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Singh Awdhesh',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kay9bbk0/book/6/5/4/mastering-essay-answer-writing-for-upsc-civil-services-ias-ips-original-imafsezaej632guh.jpeg?q=70',
+ 'name': 'Mastering Essay & Answer Writing for Upsc Civil Service...',
+ 'price': '125',
+ 'rating': '4.5'}
+2021-05-02 21:06:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kb9ou4w0/regionalbooks/e/h/z/365-smart-colouring-by-sawan-pb-original-imafsngyphfyrrp4.jpeg?q=70',
+ 'name': '365 Smart Colouring By Sawan (Pb)',
+ 'price': '149',
+ 'rating': '4.5'}
+2021-05-02 21:06:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'PAPERBOOK, MANJIT KAUR, LAKHMIR SINGH',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k7531jk0/regionalbooks/m/r/w/class-10th-science-physics-chemistry-biology-ncert-3-books-original-imafpfkqre5gpwqb.jpeg?q=70',
+ 'name': 'Class 10th Science (Physics Chemistry Biology) NCERT 3 ...',
+ 'price': '1,275',
+ 'rating': '4.6'}
+2021-05-02 21:06:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kj0bp8w0-0/book/8/v/g/power-of-your-subconscious-mind-original-imafyz8ac2zpfqrb.jpeg?q=70',
+ 'name': 'Power of Your Subconscious Mind',
+ 'price': '400',
+ 'rating': '4.3'}
+2021-05-02 21:06:36 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, Murphy Joseph',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k2nmaa80/book/1/2/9/the-power-of-your-subconscious-mind-original-imafhyj9aymzmzxy.jpeg?q=70',
+ 'name': 'The Power of Your Subconscious Mind',
+ 'price': '330',
+ 'rating': '4.5'}
+2021-05-02 21:06:37 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jpinjbk0/book/4/6/9/oxford-school-atlas-original-imafbqkp836qmn52.jpeg?q=70',
+ 'name': 'Oxford School Atlas',
+ 'price': '284',
+ 'rating': '4.4'}
+2021-05-02 21:06:37 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/book/4/b/j/the-yearly-current-affairs-2021-for-competitive-exams-6th-original-imafyee2pgxrzmhc.jpeg?q=70',
+ 'name': 'The Yearly Current Affairs 2021 for Competitive Exams',
+ 'price': '100',
+ 'rating': '4.2'}
+2021-05-02 21:06:37 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=3>
+{'author_format': 'Paperback, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kcuug7k0/regionalbooks/3/7/6/set-of-2-books-general-learning-books-my-cute-abc-picture-original-imaftvyyna2qykxf.jpeg?q=70',
+ 'name': 'Set Of 2 Books, General Learning Books | My Cute ABC Pi...',
+ 'price': '119',
+ 'rating': '4.6'}
+2021-05-02 21:06:37 [scrapy] DEBUG: Crawled (200) <GET https://www.flipkart.com/search?q=books&page=4> (referer: https://www.flipkart.com/search?q=books&page=3)
+2021-05-02 21:06:38 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Hindi, Paperback, Sadhguru',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k0r15e80/book/2/4/8/inner-engineering-hindi-original-imafkgrers69xzau.jpeg?q=70',
+ 'name': 'Inner Engineering (Hindi)',
+ 'price': '123',
+ 'rating': '4.6'}
+2021-05-02 21:06:38 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Malayalam, Paperback, Vijayan O.V.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k0jvy4w0/book/2/6/3/khasakkinte-ithihaasam-original-imafkbjkhmu3yqyc.jpeg?q=70',
+ 'name': 'Khasakkinte Ithihaasam',
+ 'price': '153',
+ 'rating': '4.4'}
+2021-05-02 21:06:38 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': "Paperback, Stephen R. Covey's",
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/keuagsw0/regionalbooks/3/j/c/the-7-habits-of-highly-effective-people-paperback-1-january-2019-original-imafvevgfzjcx387.jpeg?q=70',
+ 'name': 'The 7 Habits Of Highly Effective People Paperback – 1 J...',
+ 'price': '215',
+ 'rating': '4.1'}
+2021-05-02 21:06:39 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Way2ship',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jthjki80/regionalbooks/7/c/z/imu-cet-exam-full-package-original-imafetbvczkn8hkd.jpeg?q=70',
+ 'name': 'IMU CET Exam Full Package',
+ 'price': '799',
+ 'rating': '4.3'}
+2021-05-02 21:06:39 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, SSBCrack',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jjx6g7k0/book/7/0/3/let-s-crack-ssb-interview-original-imaf7ebtn5egkhap.jpeg?q=70',
+ 'name': "Let's Crack SSB Interview 1 Edition",
+ 'price': '351',
+ 'rating': '4.4'}
+2021-05-02 21:06:39 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/keokpe80/book/6/1/8/ace-reasoning-ability-for-banking-and-insurance-english-printed-original-imafvapau4gpzqyb.jpeg?q=70',
+ 'name': 'Ace Reasoning Ability for Banking and Insurance',
+ 'price': '264',
+ 'rating': '4.4'}
+2021-05-02 21:06:39 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, yct',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kj61gnk0-0/regionalbooks/f/u/e/rrb-2021-mathematics-chapter-wise-solved-papers-english-medium-original-imafysvmzqk6hrqk.jpeg?q=70',
+ 'name': 'RRB 2021 Mathematics Chapter-Wise Solved Papers(English...',
+ 'price': '184',
+ 'rating': '4.4'}
+2021-05-02 21:06:39 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Shravya Bhinder, Durjoy Datta',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/ki4w0i80/book/2/4/9/something-i-never-told-you-wish-i-could-tell-you-original-imafxzpscvsy8bwp.jpeg?q=70',
+ 'name': 'Something I Never Told You & Wish I Could Tell You',
+ 'price': '270',
+ 'rating': '4.6'}
+2021-05-02 21:06:40 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Hardcover, M. K. Gandhi',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/book/6/7/9/the-story-of-my-experiments-with-truth-original-imaey39ffa66hazf.jpeg?q=70',
+ 'name': 'The Story of My Experiments with Truth - Gandhi an Auto...',
+ 'price': '400',
+ 'rating': '4.3'}
+2021-05-02 21:06:40 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Hardcover, Manoj Pub. Ed. Borad',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kgy0sy80/book/7/6/9/my-first-board-book-of-all-in-one-original-imafx2jwgdgxzynz.jpeg?q=70',
+ 'name': 'My First Board Book of All in One',
+ 'price': '199',
+ 'rating': '4.4'}
+2021-05-02 21:06:40 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Aroor Shiv',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jyug0i80/book/4/4/4/india-s-most-fearless-original-imafgznyrqhpsbup.jpeg?q=70',
+ 'name': "India's Most Fearless",
+ 'price': '161',
+ 'rating': '4.7'}
+2021-05-02 21:06:40 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jucz98w0/book/0/9/8/my-first-book-of-patterns-capital-letters-original-imaffgegsthw3y7y.jpeg?q=70',
+ 'name': 'My First Book of Patterns Capital Letter',
+ 'price': '76',
+ 'rating': '4.4'}
+2021-05-02 21:06:41 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Wonder House Books',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kh6lg280/book/7/4/6/cursive-handwriting-original-imafx9yxafxddavy.jpeg?q=70',
+ 'name': 'Cursive Handwriting - Capital Letters: Practice Workboo...',
+ 'price': '99',
+ 'rating': '4.9'}
+2021-05-02 21:06:41 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kidgnm80-0/regionalbooks/e/i/t/gulliver-s-travels-all-time-great-classics-novels-original-imafy6hghcpxhnhy.jpeg?q=70',
+ 'name': "Gulliver's Travels | All Time Great Classics Novels",
+ 'price': '149',
+ 'rating': '4.6'}
+2021-05-02 21:06:41 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Gujarati, Paperback, Rhonda Byrne',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kdt50nk0/book/9/8/6/the-secret-original-imafum5hfyzzhehs.jpeg?q=70',
+ 'name': 'The SECRET',
+ 'price': '320',
+ 'rating': '4.4'}
+2021-05-02 21:06:41 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Hindi, Sanjiv Kumar',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kazor680/regionalbooks/g/3/p/samanya-gyan-original-imaf3fzqzz44k358.jpeg?q=70',
+ 'name': "Lucent's : Samanya Gyan | Lucent GK Book In Hindi ( Pap...",
+ 'price': '180',
+ 'rating': '4.4'}
+2021-05-02 21:06:41 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, MANOJ PB. ED. BOARD',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/juip0nk0/book/6/5/4/151-indian-mythological-stories-original-imaffhdyfsgrrtja.jpeg?q=70',
+ 'name': '151 INDIAN MYTHOLOGICAL STORIES',
+ 'price': '139',
+ 'rating': '4.5'}
+2021-05-02 21:06:42 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Murphy',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kjhgzgw0-0/book/u/d/e/essential-english-grammar-original-imafzfmvhkzhfpec.jpeg?q=70',
+ 'name': 'Essential English Grammar',
+ 'price': '195',
+ 'rating': '4.3'}
+2021-05-02 21:06:42 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, A.P.J. Abdul Kalam',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k2nmaa80/book/4/7/8/turning-points-a-journey-through-challanges-original-imafhyg2gtwehjvm.jpeg?q=70',
+ 'name': 'Turning Points: A Journey Through Challenges',
+ 'price': '158',
+ 'rating': '4.6'}
+2021-05-02 21:06:42 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Laminated, SAWAN',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kc7zekw0/regionalbooks/8/d/f/numbers-wall-chart-original-imaftebbhjecxtfe.jpeg?q=70',
+ 'name': 'Numbers Wall Chart',
+ 'price': '149',
+ 'rating': '4.4'}
+2021-05-02 21:06:42 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Disha Experts',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k3khevk0/book/9/0/3/ssc-multi-tasking-staff-non-technical-5-year-wise-solved-papers-original-imafmz75mfzkxjq7.jpeg?q=70',
+ 'name': 'SSC Multi Tasking Staff (Non Technical) 5 Year-wise Sol...',
+ 'price': '68',
+ 'rating': '4.1'}
+2021-05-02 21:06:43 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Hindi, Chakshu Panel Of Experts',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kmds4nk0/regionalbooks/a/u/p/ssc-constable-gd-exam-practice-sets-and-solved-papers-book-2021-original-imagfajnuhgcndsh.jpeg?q=70',
+ 'name': 'SSC Constable GD Exam Practice Sets And Solved Papers B...',
+ 'price': '179',
+ 'rating': '4.5'}
+2021-05-02 21:06:43 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Chbosky Stephen',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jp8ngcw0/book/1/9/6/the-perks-of-being-a-wallflower-original-imafbgyaydqgyxuh.jpeg?q=70',
+ 'name': 'The Perks of Being a Wallflower',
+ 'price': '183',
+ 'rating': '4.6'}
+2021-05-02 21:06:43 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Pin Binding, Manoj Publications Editorial Board',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kc9eufk0/regionalbooks/w/g/d/sawan-present-set-of-8-story-books-level-3-amber-gets-a-brother-original-imaftfmyvtbgdnex.jpeg?q=70',
+ 'name': 'Sawan Present Set Of 8 Story Books | Level-3 | Amber Ge...',
+ 'price': '319',
+ 'rating': '5'}
+2021-05-02 21:06:43 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Hindi, NEERAJ CHANDRA CHAUDHRY AND KIRAN KUMARI',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kj4m0sw0-0/regionalbooks/l/m/c/vastunishth-samanya-gyan-in-hindi-objective-g-k-original-imafyrq6nxkzbh3y.jpeg?q=70',
+ 'name': 'VASTUNISHTH SAMANYA GYAN IN HINDI (Objective G.K)',
+ 'price': '319',
+ 'rating': '4.4'}
+2021-05-02 21:06:43 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Hindi, Book, Jain Nishant',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kiqbma80-0/book/x/m/k/mujhe-bananaa-hai-upsc-topper-original-imafygq8zjp23bed.jpeg?q=70',
+ 'name': 'Mujhe Bananaa Hai Upsc Topper',
+ 'price': '255',
+ 'rating': '4.5'}
+2021-05-02 21:06:44 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kgsb1jk0/book/3/0/9/upsc-ias-prelims-paper-1-2-general-studies-10-year-wise-solved-original-imafwyb9gcyc33eu.jpeg?q=70',
+ 'name': 'Upsc IAS Prelims Paper 1 & 2 General Studies 10 Year-Wi...',
+ 'price': '154',
+ 'rating': '4.3'}
+2021-05-02 21:06:44 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Chowdhury Biswaroop Roy',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kckud8w0/book/2/5/3/n-i-c-e-way-to-cure-covid-19-original-imaftzmpem52xqah.jpeg?q=70',
+ 'name': 'N.I.C.E Way to Cure Covid-19',
+ 'price': '250',
+ 'rating': '4.2'}
+2021-05-02 21:06:44 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': "Paperback, Trueman's",
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kd94uq80/regionalbooks/r/v/5/trueman-s-elementary-biology-volume-2-for-class-12-examination-original-imafu7drs7jwxnce.jpeg?q=70',
+ 'name': "Trueman's Elementary Biology, Volume - 2 For Class 12 (...",
+ 'price': '869',
+ 'rating': '4.4'}
+2021-05-02 21:06:44 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Hindi, Manoj Publication',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kf8kvbk0/regionalbooks/z/x/b/shrimadbhagwat-puran-hindi-edition-bade-size-ki-dharmik-pustake-original-imafvq3nmnfgf8xu.jpeg?q=70',
+ 'name': 'श्रीमद्भागवत पुराण Shrimadbhagwat Puran (Hindi Edition)...',
+ 'price': '195',
+ 'rating': '4.4'}
+2021-05-02 21:06:45 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, S.L. Arora',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kasjjww0/book/0/7/3/new-simplified-physics-a-reference-book-for-class-12-vol-1-2-original-imafs9v9ff4sht4s.jpeg?q=70',
+ 'name': 'New Simplified Physics : A Reference Book for Class 12 ...',
+ 'price': '1,045',
+ 'rating': '4.4'}
+2021-05-02 21:06:45 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Chakraborty Novoneel',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k3j1z0w0/book/5/0/8/roses-are-blood-red-original-imafhgxchrv2ckrr.jpeg?q=70',
+ 'name': 'Roses Are Blood Red',
+ 'price': '123',
+ 'rating': '4.5'}
+2021-05-02 21:06:45 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Marathi, Mr Umesh Rupanwar',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kk8mcnk0/regionalbooks/0/u/v/police-bharti-sampurna-margdarshak-polce-bharti-complete-guide-original-imafzmw872khyekb.jpeg?q=70',
+ 'name': 'Police Bharti Sampurna Margdarshak / Polce Bharti Compl...',
+ 'price': '475',
+ 'rating': '4.5'}
+2021-05-02 21:06:45 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Manoj Publications',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kn3i1zk0/book/h/d/y/151-nursery-rhymes-original-imagfunrszbzwfzy.jpeg?q=70',
+ 'name': '151 Nursery Rhymes',
+ 'price': '139',
+ 'rating': '4.5'}
+2021-05-02 21:06:45 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, unknown',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jy3anbk0/book/9/1/5/nda-na-14-years-mathematics-topic-wise-solved-papers-2006-2019-original-imafgexwgz3wmgpr.jpeg?q=70',
+ 'name': 'Nda/ Na 14 Years Mathematics Topic-Wise Solved Papers (...',
+ 'price': '411',
+ 'rating': '4.5'}
+2021-05-02 21:06:46 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, George Alex Andrews',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k09vv680/book/4/8/6/important-judgments-that-transformed-india-for-upsc-civil-original-imafkygyjkmgymd5.jpeg?q=70',
+ 'name': 'Important Judgments That Transformed India',
+ 'price': '205',
+ 'rating': '4.5'}
+2021-05-02 21:06:46 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Chouhan M.S.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/kbtp0280/book/2/1/7/solomons-fryhle-synder-organic-chemistry-for-jee-main-and-original-imaft3ctvkgvsdnx.jpeg?q=70',
+ 'name': "Wiley's Solomons, Fryhle & Snyder Organic Chemistry for...",
+ 'price': '919',
+ 'rating': '4.5'}
+2021-05-02 21:06:46 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Ram Singh Yadav',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/k3ahbww0/regionalbooks/e/q/m/practice-paper-set-indian-army-general-duty-g-d-n-e-r-original-imafmfm3ehp5zwbn.jpeg?q=70',
+ 'name': 'Practice Paper Set Indian Army General Duty G.D. N.E.R ...',
+ 'price': '130',
+ 'rating': '4.4'}
+2021-05-02 21:06:46 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'English, Paperback, Sharma Suresh K.',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/jlsc58w0/book/7/2/6/brunner-and-suddarth-s-textbook-of-medical-surgical-nursing-original-imaf8txczz4fv8v4.jpeg?q=70',
+ 'name': "Brunner and Suddarth's Textbook of Medical-Surgical Nur...",
+ 'price': '1,548',
+ 'rating': '4.5'}
+2021-05-02 21:06:47 [scrapy] DEBUG: Scraped from <200 https://www.flipkart.com/search?q=books&page=4>
+{'author_format': 'Paperback, Sawan',
+ 'image': 'https://rukminim1.flixcart.com/image/612/612/keg02a80/regionalbooks/h/f/z/complete-set-for-ukg-set-of-12-books-pre-school-books-for-upper-original-imafv4dencnk3yew.jpeg?q=70',
+ 'name': 'Complete Set For UKG | Set Of 12 Books | Pre-School Boo...',
+ 'price': '740',
+ 'rating': '4.4'}
+2021-05-02 21:06:47 [scrapy] INFO: Closing spider (finished)
+2021-05-02 21:06:47 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1764,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 361557,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'elapsed_time_seconds': 39.799588,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 2, 15, 36, 47, 67895),
+ 'httpcompression/response_bytes': 2094837,
+ 'httpcompression/response_count': 4,
+ 'item_scraped_count': 160,
+ 'log_count/DEBUG': 164,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 3,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 5, 2, 15, 36, 7, 268307)}
+2021-05-02 21:06:47 [scrapy] INFO: Spider closed (finished)
