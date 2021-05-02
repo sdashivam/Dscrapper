@@ -7,7 +7,7 @@ Web scraping and crawling aren’t illegal by themselves.but making so many requ
 In this project we are going to scrape flipkart.com books section where we will extract all the information related to the new releases. We will use Scrapy in this project, Scrapy is a free and open-source web crawling framework written in python for web scraping. Check the documentation here: https://docs.scrapy.org/en/latest/intro/tutorial.html
 
 For starting our first spider we need to create a python virtual environment. I'm using Python 3.9.4 with VS Code. you can use any editor of your choice and follow these steps:
-
+![alt text](C:\Users\shiva\Downloads\sd5.png)
 1. pip install virtualenv
 
 2. pip install virtualenvwrapper
