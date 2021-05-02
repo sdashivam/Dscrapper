@@ -7,7 +7,7 @@ Web scraping and crawling aren’t illegal by themselves.but making so many requ
 In this project we are going to scrape flipkart.com books section where we will extract all the information related to the new releases. We will use Scrapy in this project, Scrapy is a free and open-source web crawling framework written in python for web scraping. Check the documentation here: https://docs.scrapy.org/en/latest/intro/tutorial.html
 
 For starting our first spider we need to create a python virtual environment. I'm using Python 3.9.4 with VS Code. you can use any editor of your choice and follow these steps:
-![alt text](C:\Users\shiva\Downloads\sd5.png)
+
 1. pip install virtualenv
 
 2. pip install virtualenvwrapper
@@ -25,7 +25,7 @@ For starting our first spider we need to create a python virtual environment. I'
 8. Now we have to start our project with scrapy so in command prompt enter command with project name;
 scrapy startproject flipscrap 
 
-9. It will create a project for us where we will have the following files:
+9. It will create a project for us where we will have all the files.
 
 10. From the starting first we have a spiders folder where we have to create a python file in that we will write code for our first spider. Here i have given bookcrawl.py name. Then we have items.py file in these file we have to write items and itemloader for our crawler. Next we have middlewears.py file here we have all the middlewares for crawler we will not make any changes as of now here. Then pipelines.py file in this file we will write code for database creation and connection with the spider so whatever details we will extract all the details stored in the database. And finally we have a settings.py file where we will make some changes accordingly.
 
@@ -44,7 +44,7 @@ because they “select” certain parts of the HTML document specified either by
 Now all the steps are done, we have created our first spider, loading all data in the Itemloader and storing all the scraped data in the mongodb.
 This is the time to start the spider, go in the command shell and make sure you are in the right directory, and enter the command; we need to write here the name of the spider that we had written in the bookcrawl.py class.
 scrapy crawl bookscrap   
-Once, we enter these command if everything is correct it will start scraping all the desired informations those we can see in the terminal:
+Once, we enter these command if everything is correct it will start scraping all the desired informations those we can see in the terminal.
 
 So now our spider is working fine and also check the DB where it will store all the information. 
 
