@@ -12,7 +12,7 @@ For starting our first spider we need to create a python virtual environment. I'
 
 2. pip install virtualenvwrapper
 
-3. mkvirtualenv snv(provide any name for environment)
+3. virtualenv snv(provide any name for environment)
 
 4. Once a virtual environment has been created we can open the created folder and start writing the code.
 
@@ -54,9 +54,9 @@ Scrapyd:- scrapyd is an application for deploying and running scrapy spiders, it
 
 Scrapydweb:- it is a web app for Scrapyd cluster management, with support for scrapy log analysis and visualization.kindly check documentation for more details:https://github.com/my8100/scrapydweb
 
-Scrapyrt:- scrapyrt is a HTTP server which provides API for scheduling Scrapy spiders and making requests with spiders. We are going to use it in our project. kindly check documentation for more details: https://github.com/scrapinghub/scrapyrt
+Scrapyrt:- scrapyrt is an HTTP server that provides API for scheduling Scrapy spiders and making requests with spiders. We are going to use it in our project. kindly check documentation for more details: https://github.com/scrapinghub/scrapyrt
 
-So for that we just have to write a pip install scrapyrt for installation inside the project. Make sure you must have a scrapy.cfg file because when we start scrapyrt it will go and check for the scrapy.cfg file. 
+So for that, we just have to write a pip install scrapyrt for installation inside the project. Make sure you must have a scrapy.cfg file because when we start scrapyrt it will go and check for the scrapy.cfg file. 
 
 To start a server we have to write in command prompt scrapyrt by default it will start server on localhost:9080 port. 
 
