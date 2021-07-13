@@ -73,3 +73,6 @@ Inside the logs folder’s file we can see all the outputs.
 
 Finally, we have successfully created a spider using Scrapy framework, integrated it with the mongoDB Atlas and running on the Scrapyrt server.
 
+
+Procedure:-
+https://docs.google.com/document/d/1RAjsRxMg8gVBlT88f0bmoVvvhaE9_9ULybVkUEND-og/edit
